@@ -105,23 +105,3 @@ aB7@xK2#mP9!
 ```
 
 Every generated password is random.
-
-## 🔮 Future Improvements
-
-* Add password strength indicator
-* Add uppercase/lowercase customization
-* Add exclude-character option
-* Add password history
-* Add dark/light mode
-* Add deployment with Vercel
-
-## 👨‍💻 Author
-
-**Ashish Patel**
-
-Computer Science Engineering Student
-IIIT Kalyani
-
----
-
-⭐ If you found this project useful, consider giving it a star!
